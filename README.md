@@ -1,6 +1,22 @@
-<h1 align="center">Hi there👋, I'm Vivek Kumar Shah</h1>
+<h1 align="center">Hi there 👋, I'm Vivek Kumar Shah</h1>
 <h3 align="center">Curious about tech and passionate about turning ideas into code.</h3>
-<img src = "https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### 👨‍💻 About Me
+- 🔭 I like building projects and exploring real-world tech
+- 🌱 I’m currently learning about cloud, backend, and scalable systems
+- 🚀 I enjoy turning ideas into practical applications
+- 🤝 I like collaborating, sharing ideas, and learning together
+
+   </td>
+    <td valign="top" width="50%">
+      <img src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="100%" />
+    </td>
+  </tr>
+</table>
 
 
 ## 🌐 Socials:
